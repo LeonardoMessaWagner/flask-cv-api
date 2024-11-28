@@ -1,1 +1,9 @@
-Flask==3.0.3
+Flask
+mediapipe
+fer
+matplotlib
+gunicorn
+numpy
+Flask-CORS
+opencv-python-headless
+tensorflow-cpu
